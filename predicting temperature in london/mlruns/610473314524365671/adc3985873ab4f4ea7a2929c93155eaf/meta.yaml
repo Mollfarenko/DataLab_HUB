@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/adc3985873ab4f4ea7a2929c93155eaf/artifacts
+end_time: 1739086525052
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: adc3985873ab4f4ea7a2929c93155eaf
+run_name: nebulous-midge-808
+run_uuid: adc3985873ab4f4ea7a2929c93155eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086521144
+status: 3
+tags: []
+user_id: repl

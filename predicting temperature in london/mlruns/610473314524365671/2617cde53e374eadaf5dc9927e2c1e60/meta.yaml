@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/2617cde53e374eadaf5dc9927e2c1e60/artifacts
+end_time: 1739086593332
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: 2617cde53e374eadaf5dc9927e2c1e60
+run_name: invincible-robin-623
+run_uuid: 2617cde53e374eadaf5dc9927e2c1e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086589288
+status: 3
+tags: []
+user_id: repl

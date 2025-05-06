@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/084c69f2182b44afb074544ce6726703/artifacts
+end_time: 1739086529360
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: 084c69f2182b44afb074544ce6726703
+run_name: mysterious-mare-108
+run_uuid: 084c69f2182b44afb074544ce6726703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086525363
+status: 3
+tags: []
+user_id: repl

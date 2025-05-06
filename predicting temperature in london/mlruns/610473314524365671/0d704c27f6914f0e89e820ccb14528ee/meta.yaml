@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/0d704c27f6914f0e89e820ccb14528ee/artifacts
+end_time: 1739086405449
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: 0d704c27f6914f0e89e820ccb14528ee
+run_name: gaudy-koi-760
+run_uuid: 0d704c27f6914f0e89e820ccb14528ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086401522
+status: 3
+tags: []
+user_id: repl

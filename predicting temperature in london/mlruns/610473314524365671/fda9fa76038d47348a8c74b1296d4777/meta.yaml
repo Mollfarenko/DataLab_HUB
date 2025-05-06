@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/fda9fa76038d47348a8c74b1296d4777/artifacts
+end_time: 1739085945812
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: fda9fa76038d47348a8c74b1296d4777
+run_name: grandiose-dove-229
+run_uuid: fda9fa76038d47348a8c74b1296d4777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739085942151
+status: 3
+tags: []
+user_id: repl

@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/122461437550758375/fbd4afde058248f6bba4521c6396e1be/artifacts
+end_time: 1739016019604
+entry_point_name: ''
+experiment_id: '122461437550758375'
+lifecycle_stage: active
+run_id: fbd4afde058248f6bba4521c6396e1be
+run_name: delicate-conch-765
+run_uuid: fbd4afde058248f6bba4521c6396e1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739016015213
+status: 3
+tags: []
+user_id: repl

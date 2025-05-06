@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/7cce5715b7994fcc993f449adc7250fb/artifacts
+end_time: 1739085941846
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: 7cce5715b7994fcc993f449adc7250fb
+run_name: melodic-kite-697
+run_uuid: 7cce5715b7994fcc993f449adc7250fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739085937952
+status: 3
+tags: []
+user_id: repl

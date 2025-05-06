@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/c0656105639a4a99818b79a0f61c482c/artifacts
+end_time: 1739086030700
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: c0656105639a4a99818b79a0f61c482c
+run_name: omniscient-kit-617
+run_uuid: c0656105639a4a99818b79a0f61c482c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086026950
+status: 3
+tags: []
+user_id: repl

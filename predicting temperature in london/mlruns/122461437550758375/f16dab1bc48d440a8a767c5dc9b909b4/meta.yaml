@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/122461437550758375/f16dab1bc48d440a8a767c5dc9b909b4/artifacts
+end_time: 1739085329954
+entry_point_name: ''
+experiment_id: '122461437550758375'
+lifecycle_stage: active
+run_id: f16dab1bc48d440a8a767c5dc9b909b4
+run_name: peaceful-bug-382
+run_uuid: f16dab1bc48d440a8a767c5dc9b909b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739085325496
+status: 3
+tags: []
+user_id: repl

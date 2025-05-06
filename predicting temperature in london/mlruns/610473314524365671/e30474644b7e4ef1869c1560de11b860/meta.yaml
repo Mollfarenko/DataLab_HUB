@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/e30474644b7e4ef1869c1560de11b860/artifacts
+end_time: 1739086034782
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: e30474644b7e4ef1869c1560de11b860
+run_name: magnificent-yak-279
+run_uuid: e30474644b7e4ef1869c1560de11b860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086031002
+status: 3
+tags: []
+user_id: repl

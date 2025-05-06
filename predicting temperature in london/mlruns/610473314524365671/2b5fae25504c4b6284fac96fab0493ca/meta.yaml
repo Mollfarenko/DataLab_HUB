@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/610473314524365671/2b5fae25504c4b6284fac96fab0493ca/artifacts
+end_time: 1739086088129
+entry_point_name: ''
+experiment_id: '610473314524365671'
+lifecycle_stage: active
+run_id: 2b5fae25504c4b6284fac96fab0493ca
+run_name: masked-wolf-449
+run_uuid: 2b5fae25504c4b6284fac96fab0493ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086084296
+status: 3
+tags: []
+user_id: repl

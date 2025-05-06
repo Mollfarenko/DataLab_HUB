@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/122461437550758375/1404ef7bff1540f78f2b49fd25903a17/artifacts
+end_time: 1739015995544
+entry_point_name: ''
+experiment_id: '122461437550758375'
+lifecycle_stage: active
+run_id: 1404ef7bff1540f78f2b49fd25903a17
+run_name: bouncy-ox-972
+run_uuid: 1404ef7bff1540f78f2b49fd25903a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739015995006
+status: 4
+tags: []
+user_id: repl
