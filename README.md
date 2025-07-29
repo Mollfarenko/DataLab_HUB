@@ -16,4 +16,5 @@ This repository serves as a centralised collection of links to my various Datala
 - Google Datalab / Colab / Jupyter Notebooks
 - PyTorch, Scikit-learn
 - Pandas, NumPy, Matplotlib, Seaborn
+- LLMs, Hugging Face, ChatGPT API
 
